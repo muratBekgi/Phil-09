@@ -1,0 +1,7 @@
+7.2.3.26368macs:Mac OS X10.12.6SntFC1504746067236D1504747757272C1506050524371D1506050540858S135526Owned(claire,folly,2:00)
+;Claaire owned Folly at 2 pmGave(claire,pris,max,2:05)
+; Claire gave Pris to Max at 2:05 pm ,or we could also do "GavePris(claire,max,2:05) "Student(max)
+; Max is a studentFed(claire,carl,2:00)
+; Claire fed Carl at 2 pm , or " FedClaire(carl, 2:00) "Owned(folly,max,3:05)
+; Folly belonged to Max at 3:05 pm or " BelongedFolly(max,3:05) "2:00 < 2:05
+; 2:00 pm is earlier than 2:05 pm "< means Earlier-than for times"s=83386;
