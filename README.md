@@ -6,4 +6,7 @@ git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/muratBekgi/Phil-09.git
 git push -u origin master
-OPen Raw file and save it, then open that file with .prf , .wld , .sen or etc depending on the file extension
+
+
+IMPORTANT(to new students)
+open RAW file and save it, then open that file with .prf , .wld , .sen or etc depending on the file extension
